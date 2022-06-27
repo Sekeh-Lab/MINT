@@ -1,0 +1,16 @@
+*.o*
+pyt_env/
+results/*
+*.pkl
+*/data/*
+*.pyc
+*.npy
+*.pdf
+*.tar*
+*.npz
+data/*
+*.csv
+*.png
+ers_2021/
+*/extras/*
+*/scripts/
